@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AudioTest</string>
+    <string name="title_activity_main">Tīng​Shuō​</string>
+    <string name="playButtonLabel">说</string>
+    <string name="hanziButtonLabel">字</string>
+    <string name="repeatButtonLabel">重</string>
+    <string name="pauseButtonLabel">休</string>
+    <string name="startTime">0:00</string>
+    <string name="buttonLabel">stuff</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="reset">Reset</string>
+    <string name="reallyReset">Reset timer and discard current clip?</string>
+    <string name="quit">Confirm quit</string>
+    <string name="reallyQuit">Quit?  This will reset timer and discard current clip.</string>
+    <string name="NightMode">Night Mode</string>
+    <string name="options_title">Options</string>
+    <string name="help">Help Me</string>
+    <string name="new_game">Start new game</string>
+    <string name="history">Show History</string>
+    <string name="email_a_friend">eMail this clip</string>
+    <string name="show_use_dur">Show app use</string>
+    <string name="select_lang">Change Language</string>
+    <string name="clip1">Play clip1</string>
+    <string name="clip2">Play clip2</string>
+    <string name="enterEmail">Enter Email Address:</string>
+</resources>
